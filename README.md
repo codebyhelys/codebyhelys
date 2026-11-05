@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Helys 👋
 
-<!--
-**codebyhelys/codebyhelys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior backend developer from Ceará, Brazil. I build APIs with Python and Django.
 
-Here are some ideas to get you started:
+**Stack:** Python · Django · Django REST Framework · PostgreSQL · Docker · Git · React · Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **ecommerce** – Django REST API + Next.js storefront, with Docker and CI
+- **BellasNailsEsmalteria** – booking site for a real client, live in production
+- **Avaliacoes** – evaluation system with DRF and Next.js
+- **devarchitect-ai** – platform skeleton with Clean Architecture
+
+Currently learning Next.js and looking for my first backend role.
